@@ -1,0 +1,39 @@
+[0m[[0m[0mdebug[0m] [0m[0mBuilding Dockerfile:[0m
+[0m[[0m[0mdebug[0m] [0m[0mFROM adoptopenjdk/openjdk8:latest[0m
+[0m[[0m[0mdebug[0m] [0m[0mADD 0/vertx-scala-assembly-0.1.0-SNAPSHOT.jar /app/vertx-scala-assembly-0.1.0-SNAPSHOT.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mENTRYPOINT ["java", "-jar", "\/app\/vertx-scala-assembly-0.1.0-SNAPSHOT.jar"][0m
+[0m[[0m[0mdebug[0m] [0m[0mEXPOSE 8666[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreparing stage directory '/Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/docker'[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning command: 'docker build --no-cache=false --rm=true --pull=false --progress=plain --file Dockerfile /Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/docker'[0m
+[0m[[0m[0minfo[0m] [0m[0m#1 [internal] load build definition from Dockerfile[0m
+[0m[[0m[0minfo[0m] [0m[0m#1 sha256:0ba5ed2937ee90a11f2bab894120cdbf9d9e2dea4a079a5445e84ad4f32ed784[0m
+[0m[[0m[0minfo[0m] [0m[0m#1 transferring dockerfile: 258B 0.0s done[0m
+[0m[[0m[0minfo[0m] [0m[0m#1 DONE 0.0s[0m
+[0m[[0m[0minfo[0m] [0m[0m#2 [internal] load .dockerignore[0m
+[0m[[0m[0minfo[0m] [0m[0m#2 sha256:4afeccd5d4a1b396aa50222b76df24792e0edee3af2291687fa4083678e0da49[0m
+[0m[[0m[0minfo[0m] [0m[0m#2 transferring context: 2B done[0m
+[0m[[0m[0minfo[0m] [0m[0m#2 DONE 0.0s[0m
+[0m[[0m[0minfo[0m] [0m[0m#3 [internal] load metadata for docker.io/adoptopenjdk/openjdk8:latest[0m
+[0m[[0m[0minfo[0m] [0m[0m#3 sha256:fdd66adeecad312d1c24e0a96adec354080d6346bec0ca8d1df807ef0b2dfe1f[0m
+[0m[[0m[0minfo[0m] [0m[0m#3 DONE 0.7s[0m
+[0m[[0m[0minfo[0m] [0m[0m#4 [1/2] FROM docker.io/adoptopenjdk/openjdk8:latest@sha256:fbdc380f38f73d685f1c5a07748414813dc005a3f807089b66141c18f2bf486d[0m
+[0m[[0m[0minfo[0m] [0m[0m#4 sha256:4e9f57f35e3ed529fd52d9f0540f00856ca0765f525b09db7e95c3182292400f[0m
+[0m[[0m[0minfo[0m] [0m[0m#4 resolve docker.io/adoptopenjdk/openjdk8:latest@sha256:fbdc380f38f73d685f1c5a07748414813dc005a3f807089b66141c18f2bf486d 0.0s done[0m
+[0m[[0m[0minfo[0m] [0m[0m#4 DONE 0.0s[0m
+[0m[[0m[0minfo[0m] [0m[0m#5 [internal] load build context[0m
+[0m[[0m[0minfo[0m] [0m[0m#5 sha256:88ee86b7e27b5adf3cc006fb2a75c569d0cc2edc408760a5db4c5fea94f94f48[0m
+[0m[[0m[0minfo[0m] [0m[0m#5 transferring context: 19.91MB 0.9s done[0m
+[0m[[0m[0minfo[0m] [0m[0m#5 DONE 1.0s[0m
+[0m[[0m[0minfo[0m] [0m[0m#4 [1/2] FROM docker.io/adoptopenjdk/openjdk8:latest@sha256:fbdc380f38f73d685f1c5a07748414813dc005a3f807089b66141c18f2bf486d[0m
+[0m[[0m[0minfo[0m] [0m[0m#4 sha256:4e9f57f35e3ed529fd52d9f0540f00856ca0765f525b09db7e95c3182292400f[0m
+[0m[[0m[0minfo[0m] [0m[0m#4 CACHED[0m
+[0m[[0m[0minfo[0m] [0m[0m#6 [2/2] ADD 0/vertx-scala-assembly-0.1.0-SNAPSHOT.jar /app/vertx-scala-assembly-0.1.0-SNAPSHOT.jar[0m
+[0m[[0m[0minfo[0m] [0m[0m#6 sha256:3006b32137eea9e35223ffceefed1d2262439124001a77009fc527dc54199a39[0m
+[0m[[0m[0minfo[0m] [0m[0m#6 DONE 0.7s[0m
+[0m[[0m[0minfo[0m] [0m[0m#7 exporting to image[0m
+[0m[[0m[0minfo[0m] [0m[0m#7 sha256:e8c613e07b0b7ff33893b694f7759a10d42e180f2b4dc349fb57dc6b71dcab00[0m
+[0m[[0m[0minfo[0m] [0m[0m#7 exporting layers[0m
+[0m[[0m[0minfo[0m] [0m[0m#7 exporting layers 0.3s done[0m
+[0m[[0m[0minfo[0m] [0m[0m#7 writing image sha256:62d995160abdbca2d778e5481fd27e7c289ce64342c5c2e029328ad55509f960 done[0m
+[0m[[0m[0minfo[0m] [0m[0m#7 DONE 0.3s[0m
+[0m[[0m[0minfo[0m] [0m[0mTagging image 62d995160abdbca2d778e5481fd27e7c289ce64342c5c2e029328ad55509f960 with name: default/vertx-scala[0m

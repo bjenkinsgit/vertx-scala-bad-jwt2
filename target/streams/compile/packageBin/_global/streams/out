@@ -1,0 +1,25 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/scala-2.12/vertx-scala_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/scala-2.12/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0m	logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/scala-2.12/classes/logback.xml[0m
+[0m[[0m[0mdebug[0m] [0m[0m	vertx-default-jul-logging.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/scala-2.12/classes/vertx-default-jul-logging.properties[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myapp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/scala-2.12/classes/myapp[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myapp/HttpVerticle$CryptoHelper$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/scala-2.12/classes/myapp/HttpVerticle$CryptoHelper$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myapp/BusVerticle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/scala-2.12/classes/myapp/BusVerticle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myapp/HttpVerticle$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/scala-2.12/classes/myapp/HttpVerticle$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myapp/BusVerticle$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/scala-2.12/classes/myapp/BusVerticle$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myapp/EmptyVerticle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/scala-2.12/classes/myapp/EmptyVerticle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myapp/HttpVerticle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/scala-2.12/classes/myapp/HttpVerticle.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	myapp/Deployer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/scala-2.12/classes/myapp/Deployer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

@@ -1,0 +1,12 @@
+JarIndex-Version: 1.0
+
+vertx-bridge-common-3.8.0.jar
+META-INF
+META-INF/maven
+META-INF/maven/io.vertx
+META-INF/maven/io.vertx/vertx-bridge-common
+io
+io/vertx
+io/vertx/ext
+io/vertx/ext/bridge
+

@@ -1,0 +1,29 @@
+Manifest-Version: 1.0
+Implementation-Title: Vert.x Bridge Common
+Bundle-SymbolicName: vertx-bridge-common
+Implementation-Version: 3.8.0
+Built-By: julien
+Specification-Vendor: Eclipse
+Bnd-LastModified: 1563269778644
+Bundle-ManifestVersion: 2
+Specification-Title: Vert.x Bridge Common
+Implementation-Vendor-Id: io.vertx
+Import-Package: io.vertx.codegen.annotations;resolution:=optional;vers
+ ion="[3.8,4)",io.vertx.core;version="[3.8,4)",io.vertx.core.json;vers
+ ion="[3.8,4)",io.vertx.rx.java;resolution:=optional
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Tool: Bnd-3.2.0.201605172007
+Implementation-Vendor: Eclipse
+Maven-Artifact-Id: vertx-bridge-common
+Export-Package: io.vertx.ext.bridge;uses:="io.vertx.codegen.annotation
+ s,io.vertx.core,io.vertx.core.json";version="3.8.0"
+Bundle-Name: Vert.x Bridge Common
+Bundle-Version: 3.8.0
+Maven-Version: 3.8.0
+Created-By: 1.8.0_181 (Oracle Corporation)
+Build-Jdk: 1.8.0_181
+Specification-Version: 3.8
+Implementation-URL: http://nexus.sonatype.org/oss-repository-hosting.h
+ tml/vertx-parent/vertx-ext/vertx-ext-parent/vertx-bridge-common
+Maven-Group-Id: io.vertx
+

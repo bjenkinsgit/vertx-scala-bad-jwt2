@@ -1,0 +1,13 @@
+JarIndex-Version: 1.0
+
+vertx-jwt-3.8.0.jar
+META-INF
+META-INF/maven
+META-INF/maven/io.vertx
+META-INF/maven/io.vertx/vertx-jwt
+io
+io/vertx
+io/vertx/ext
+io/vertx/ext/jwt
+io/vertx/ext/jwt/impl
+

@@ -1,0 +1,17 @@
+JarIndex-Version: 1.0
+
+vertx-web-common-scala_2.12-3.8.0.jar
+META-INF
+META-INF/maven
+META-INF/maven/io.vertx
+META-INF/maven/io.vertx/vertx-web-common-scala_2.12
+io
+io/vertx
+io/vertx/scala
+io/vertx/scala/ext
+io/vertx/scala/ext/web
+io/vertx/scala/ext/web/codec
+io/vertx/scala/ext/web/common
+io/vertx/scala/ext/web/common/template
+io/vertx/scala/ext/web/multipart
+

@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: vertx-auth-common
+Built-By: julien
+Bnd-LastModified: 1563269749372
+Specification-Title: vertx-auth-common
+Implementation-Vendor-Id: io.vertx
+Import-Package: io.vertx.codegen.annotations;resolution:=optional;vers
+ ion="[3.8,4)",io.vertx.core;version="[3.8,4)",io.vertx.core.buffer;ve
+ rsion="[3.8,4)",io.vertx.core.json;version="[3.8,4)",io.vertx.core.lo
+ gging;version="[3.8,4)",io.vertx.core.shareddata.impl;version="[3.8,4
+ )",javax.crypto,javax.crypto.spec
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Maven-Artifact-Id: vertx-auth-common
+Export-Package: io.vertx.ext.auth;uses:="io.vertx.codegen.annotations,
+ io.vertx.core,io.vertx.core.buffer,io.vertx.core.json,io.vertx.core.s
+ hareddata.impl";version="3.8.0",io.vertx.ext.auth.impl.hash;uses:="io
+ .vertx.ext.auth";version="3.8.0"
+Bundle-Name: vertx-auth-common
+Maven-Group-Id: io.vertx
+Implementation-Title: vertx-auth-common
+Implementation-Version: 3.8.0
+Specification-Vendor: Eclipse
+Bundle-ManifestVersion: 2
+Tool: Bnd-3.2.0.201605172007
+Implementation-Vendor: Eclipse
+Bundle-Version: 3.8.0
+Private-Package: examples,io.vertx.ext.auth.impl
+Maven-Version: 3.8.0
+Created-By: 1.8.0_181 (Oracle Corporation)
+Build-Jdk: 1.8.0_181
+Specification-Version: 3.8
+Implementation-URL: http://nexus.sonatype.org/oss-repository-hosting.h
+ tml/vertx-parent/vertx-ext/vertx-ext-parent/vertx-auth/vertx-auth-com
+ mon
+

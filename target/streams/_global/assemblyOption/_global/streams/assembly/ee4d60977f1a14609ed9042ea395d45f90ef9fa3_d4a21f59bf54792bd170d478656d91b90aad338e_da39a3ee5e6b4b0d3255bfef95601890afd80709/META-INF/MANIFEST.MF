@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Implementation-Title: Vert.x Scala Language Support
+Implementation-Version: 3.8.0
+Built-By: julien
+Specification-Vendor: vert.x
+Specification-Title: Vert.x Scala Language Support
+Implementation-Vendor-Id: io.vertx
+Implementation-Vendor: vert.x
+Maven-Artifact-Id: vertx-lang-scala_2.12
+Maven-Version: 3.8.0
+Created-By: Apache Maven 3.5.4
+Build-Jdk: 1.8.0_181
+Specification-Version: 3.8
+Implementation-URL: http://nexus.sonatype.org/oss-repository-hosting.h
+ tml/vertx-parent/vertx-lang-scala-parent_2.12/vertx-lang-scala_2.12
+Maven-Group-Id: io.vertx
+

@@ -1,0 +1,6 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/bwj/Documents/src/scala/vert.x/vertx-scala/src/main/scala/myapp/HttpVerticle.scala:63:54: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : java.security.KeyPair[0m
+[0m[[0m[31merror[0m] [0m[0m required: Null[0m
+[0m[[0m[31merror[0m] [0m[0m        keypair = new JcaPEMKeyConverter().getKeyPair(new PEMParser(r).readObject.asInstanceOf[PEMKeyPair])[0m
+[0m[[0m[31merror[0m] [0m[0m                                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

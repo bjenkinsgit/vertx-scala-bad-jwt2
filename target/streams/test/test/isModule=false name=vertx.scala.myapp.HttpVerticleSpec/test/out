@@ -1,0 +1,3 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mHttpVerticleSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mHttpVerticle[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should bind to 8666 and answer with 'world'[0m[0m

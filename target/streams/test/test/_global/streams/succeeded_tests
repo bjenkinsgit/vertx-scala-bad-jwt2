@@ -1,0 +1,6 @@
+#Successful Tests
+#Wed Jun 16 14:24:19 EDT 2021
+vertx.scala.myapp.BusVerticleSpec=1623856068748
+myapp.BusVerticleSpec=1623867859402
+myapp.HttpVerticleSpec=1623867859944
+vertx.scala.myapp.HttpVerticleSpec=1623856069181

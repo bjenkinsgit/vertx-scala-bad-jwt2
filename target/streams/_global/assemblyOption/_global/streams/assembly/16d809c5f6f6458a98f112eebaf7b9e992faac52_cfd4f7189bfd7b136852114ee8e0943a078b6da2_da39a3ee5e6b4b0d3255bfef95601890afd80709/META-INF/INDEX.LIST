@@ -1,0 +1,13 @@
+JarIndex-Version: 1.0
+
+vertx-jwt-scala_2.12-3.8.0.jar
+META-INF
+META-INF/maven
+META-INF/maven/io.vertx
+META-INF/maven/io.vertx/vertx-jwt-scala_2.12
+io
+io/vertx
+io/vertx/scala
+io/vertx/scala/ext
+io/vertx/scala/ext/jwt
+

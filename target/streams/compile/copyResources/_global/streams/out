@@ -1,0 +1,3 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/bwj/Documents/src/scala/vert.x/vertx-scala/src/main/resources/logback.xml,/Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/scala-2.12/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/Users/bwj/Documents/src/scala/vert.x/vertx-scala/src/main/resources/vertx-default-jul-logging.properties,/Users/bwj/Documents/src/scala/vert.x/vertx-scala/target/scala-2.12/classes/vertx-default-jul-logging.properties)[0m

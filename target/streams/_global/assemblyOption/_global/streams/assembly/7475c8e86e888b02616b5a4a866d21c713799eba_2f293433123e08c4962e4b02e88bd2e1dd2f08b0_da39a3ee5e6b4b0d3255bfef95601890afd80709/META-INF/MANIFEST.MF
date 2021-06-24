@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: vertx-jwt
+Built-By: julien
+Bnd-LastModified: 1563269781411
+Specification-Title: vertx-jwt
+Implementation-Vendor-Id: io.vertx
+Import-Package: io.vertx.codegen.annotations;resolution:=optional;vers
+ ion="[3.8,4)",io.vertx.core.json;resolution:=optional;version="[3.8,4
+ )",io.vertx.core.logging;resolution:=optional;version="[3.8,4)",javax
+ .crypto;resolution:=optional,javax.crypto.spec;resolution:=optional
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Maven-Artifact-Id: vertx-jwt
+Export-Package: io.vertx.ext.jwt;uses:="io.vertx.codegen.annotations,i
+ o.vertx.core.json";version="3.8.0"
+Bundle-Name: vertx-jwt
+Maven-Group-Id: io.vertx
+Implementation-Title: vertx-jwt
+Implementation-Version: 3.8.0
+Specification-Vendor: Eclipse
+Bundle-ManifestVersion: 2
+Tool: Bnd-3.2.0.201605172007
+Implementation-Vendor: Eclipse
+Bundle-Version: 3.8.0
+Private-Package: io.vertx.ext.jwt.impl
+Maven-Version: 3.8.0
+Created-By: 1.8.0_181 (Oracle Corporation)
+Build-Jdk: 1.8.0_181
+Specification-Version: 3.8
+Implementation-URL: http://nexus.sonatype.org/oss-repository-hosting.h
+ tml/vertx-parent/vertx-ext/vertx-ext-parent/vertx-auth/vertx-jwt
+
